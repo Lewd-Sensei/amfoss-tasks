@@ -17,3 +17,7 @@ Here too the same cat > ESeconds.txt. Add data and press CTRL+D to save the ESec
 After completition of all the tasks, Make a file EastCoordinate.txt formed from the combination of the files you had created in the above steps-(i),(ii),(iii). The terminal command used here was cat NDegree.txt EMinutes.txt ESeconds.txt > EastCoordinate.txt
 Copy the EastCoordinate.txt to the Coordinate-Location directory and rename it as East.txt and delete the file created in step-(iv).
 
+The screenshot of the map is here
+
+![Screenshot from 2021-10-17 14-27-07](https://user-images.githubusercontent.com/92096747/138327567-c9f3b971-323f-4dbd-a43c-82a40469c9d3.png)
+
