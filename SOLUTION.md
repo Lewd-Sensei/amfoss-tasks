@@ -17,7 +17,7 @@ Here too the same cat > ESeconds.txt. Add data and press CTRL+D to save the ESec
 After completition of all the tasks, Make a file EastCoordinate.txt formed from the combination of the files you had created in the above steps-(i),(ii),(iii). The terminal command used here was cat NDegree.txt EMinutes.txt ESeconds.txt > EastCoordinate.txt
 Copy the EastCoordinate.txt to the Coordinate-Location directory and rename it as East.txt and delete the file created in step-(iv).
 
-List of commands:
+List of git commands:
 git init
 git remote add origin "git@github.com:Lewd-Sensei/amfoss-tasks.git"
 git remote -v
