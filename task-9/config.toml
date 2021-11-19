@@ -1,0 +1,43 @@
+baseURL = "http://thanushnair.com/"
+languageCode = "en-us"
+title = "My Blog"
+theme = "mero"
+disableKinds = ["taxonomyTerm"]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = '0.80.0'
+
+[params]
+  dateFormat = "2006-01-02" 
+  author = "Thanush Nair"
+  description = "My awesome blog"
+  mainImage = "images/main.jpg"
+
+[params.introduction]
+   text = "This was my first time seeing seeing a selection process to enter a club, and the expierience was just just great! I hope to be a part of amFOSS where i can expierience more of this and and this will absolutely help me and my clubmates grow all the way in our respective fields ahead!!"
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-github"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-stack-overflow"
+  url = "#"  
+
+[params.footer]
+  message = "&copy; 2021 Thanush"
