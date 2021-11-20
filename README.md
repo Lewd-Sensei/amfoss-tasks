@@ -38,6 +38,6 @@ The tasks were pretty neat and very creative and it has made me develop various 
 
 Hello Seniors!
 
-This is Thanush Nair and I currently reside in Gandhidham, Gujarat. I did my grade 12th in Mount Litera Zee School, Gandhidham. My school life was pretty average. I started coding from 6th grade and the first language I coded was C Bsaic, it was pretty exciting at that time. So yeah from there my love for coding started❤️. Still now I am a complete sucker when it comes to coding😐. I also attended many tech fests that happens nearby and yeah it was pretty exciting. For me amFOSS is a club where i can contribute and learn skills, the skils which will come handy in the future  
+This is Thanush Nair and I currently reside in Gandhidham, Gujarat. I did my grade 12th in Mount Litera Zee School, Gandhidham. My school life was pretty average. I started coding from 6th grade and the first language I coded was C Bsaic, it was pretty exciting at that time. So yeah from there my love for coding started❤️. Still now I am a complete sucker when it comes to coding😐. I have also attended many tech fests that happens nearby and yeah it was pretty exciting. For me amFOSS is a club where i can contribute and learn skills, the skils which will come handy in the future  
 
 
