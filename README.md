@@ -12,7 +12,7 @@ Thanush Nair
 
 **Tasks Checklist**
 
-* Introspection
+* [Introspection](https://github.com/Lewd-Sensei/amfoss-tasks/tree/main/Introspection)
 * ~~Task 0~~  [Install Ubuntu](https://github.com/Lewd-Sensei/amfoss-tasks/tree/main/task-0)
 * ~~Task 1~~  [Star the amFOSS Repositories](https://github.com/Lewd-Sensei/amfoss-tasks/tree/main/task-1)
 * ~~Task 2~~  [Begin your journey with Linux and Git](https://github.com/Lewd-Sensei/amfoss-tasks/tree/main/task-2)
